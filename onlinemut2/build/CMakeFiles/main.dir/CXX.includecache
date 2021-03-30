@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alan_xvr/projects/worksheet7/src/src/Course.h
+string
+-
+
+/home/alan_xvr/projects/worksheet7/src/src/Curriculum.cpp
+iostream
+-
+vector
+-
+memory
+-
+algorithm
+-
+Course.h
+/home/alan_xvr/projects/worksheet7/src/src/Course.h
+Curriculum.h
+/home/alan_xvr/projects/worksheet7/src/src/Curriculum.h
+Lecture.h
+/home/alan_xvr/projects/worksheet7/src/src/Lecture.h
+Practical.h
+/home/alan_xvr/projects/worksheet7/src/src/Practical.h
+
+/home/alan_xvr/projects/worksheet7/src/src/Curriculum.h
+vector
+-
+memory
+-
+Course.h
+/home/alan_xvr/projects/worksheet7/src/src/Course.h
+
+/home/alan_xvr/projects/worksheet7/src/src/Lecture.h
+Course.h
+/home/alan_xvr/projects/worksheet7/src/src/Course.h
+
+/home/alan_xvr/projects/worksheet7/src/src/Practical.h
+Course.h
+/home/alan_xvr/projects/worksheet7/src/src/Course.h
+
