@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alan_xvr/projects/worksheet6/src/onlinemut-skeleton/src/Course.h
+string
+-
+
+/home/alan_xvr/projects/worksheet6/src/onlinemut-skeleton/src/Student.h
+string
+-
+vector
+-
+Course.h
+/home/alan_xvr/projects/worksheet6/src/onlinemut-skeleton/src/Course.h
+
+/home/alan_xvr/projects/worksheet6/src/onlinemut-skeleton/src/StudentCard.cpp
+StudentCard.h
+/home/alan_xvr/projects/worksheet6/src/onlinemut-skeleton/src/StudentCard.h
+
+/home/alan_xvr/projects/worksheet6/src/onlinemut-skeleton/src/StudentCard.h
+iostream
+-
+string
+-
+Student.h
+/home/alan_xvr/projects/worksheet6/src/onlinemut-skeleton/src/Student.h
+
+/home/alan_xvr/projects/worksheet6/src/onlinemut-skeleton/src/main.cpp
+iostream
+-
+Student.h
+/home/alan_xvr/projects/worksheet6/src/onlinemut-skeleton/src/Student.h
+Course.h
+/home/alan_xvr/projects/worksheet6/src/onlinemut-skeleton/src/Course.h
+StudentCard.h
+/home/alan_xvr/projects/worksheet6/src/onlinemut-skeleton/src/StudentCard.h
+

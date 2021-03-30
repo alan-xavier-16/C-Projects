@@ -1,0 +1,3 @@
+/home/alan_xvr/projects/worksheet6/src/onlinemut-skeleton/build/CMakeFiles/rebuild_cache.dir
+/home/alan_xvr/projects/worksheet6/src/onlinemut-skeleton/build/CMakeFiles/edit_cache.dir
+/home/alan_xvr/projects/worksheet6/src/onlinemut-skeleton/build/CMakeFiles/main.dir
